@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf2952e7.css",
+    "main.js": "/portfolio/static/js/main.9f2535f5.js",
+    "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.41912c0a.chunk.js": "/portfolio/static/js/64.41912c0a.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.0253b8e9.chunk.js": "/portfolio/static/js/769.0253b8e9.chunk.js",
+    "static/media/gitops.png": "/portfolio/static/media/gitops.1e844b09ac0591aeba22.png",
+    "static/media/italic.otf": "/portfolio/static/media/italic.304e9818dfcd56ed16f3.otf",
+    "static/media/gitopsfund.png": "/portfolio/static/media/gitopsfund.3cf1754a3ef74fcbc83d.png",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.12d88499f0ffc03cf98d.pdf",
+    "static/media/notheasternLogo.png": "/portfolio/static/media/notheasternLogo.18b09a6fc5c3847e1c7e.png",
+    "static/media/unijenaLogo.jpg": "/portfolio/static/media/unijenaLogo.1f557b72f29cdb1e390f.jpg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/virt.png": "/portfolio/static/media/virt.684360e72e5e497623a5.png",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/openshiftadmin.png": "/portfolio/static/media/openshiftadmin.37e916a839d836ba40f8.png",
+    "static/media/ocpinte.png": "/portfolio/static/media/ocpinte.91b98e295ff52835a4ba.png",
+    "static/media/rhcsa.png": "/portfolio/static/media/rhcsa.473c6b3e87851dcb4af5.png",
+    "static/media/rhca.png": "/portfolio/static/media/rhca.c894704cf66a1565f4c1.png",
+    "static/media/rhce.png": "/portfolio/static/media/rhce.f4a3a5c0914622450c0b.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.bf2952e7.css.map": "/portfolio/static/css/main.bf2952e7.css.map",
+    "main.9f2535f5.js.map": "/portfolio/static/js/main.9f2535f5.js.map",
+    "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.41912c0a.chunk.js.map": "/portfolio/static/js/64.41912c0a.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.0253b8e9.chunk.js.map": "/portfolio/static/js/769.0253b8e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf2952e7.css",
+    "static/js/main.9f2535f5.js"
+  ]
+}
