@@ -26,7 +26,7 @@ const greeting = {
     "A passionate human being who thrives in dynamic environments where complex challenges arise, who loves solving problems with an analytical mindset, who is always excited to learn."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/11iioYv0KjMfbLtB79qeKZo78zqiSAnDB/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1eHJhx0i1w7zKNZMW0fGhiIZO712sbldj/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -162,10 +162,17 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Customer Success Engineer",
+      company: "GitLab",
+      companylogo: require("./assets/images/gitlab.png"),
+      date: "Dec 2024 – Present",
+      desc: "My role centers on enabling customers to realize the full value of GitLab’s DevSecOps platform. I act as a trusted technical advisor, bridging the gap between engineering teams, sales, and renewals to ensure smooth adoption and long-term success. This involves providing in-depth technical guidance and proactively aligning solutions with customer goals. Beyond reactive support, I focus on fostering collaboration across internal teams, gathering feedback from customers, and translating their needs into actionable improvements."
+    },
+    {
       role: "Consultant",
       company: "Red Hat",
       companylogo: require("./assets/images/redhat.png"),
-      date: "Jan 2023 – Present",
+      date: "Jan 2023 – Nov 2024",
       desc: "In my role, I act as a trustworthy advisor for my customers. I'm dedicated to learning new technologies to assist customers with their technical issues on demand, advocating for an Everything as Code approach to infrastructure provisioning and cloud-native development. I focus on implementing and maintaining CI/CD pipelines to streamline the software supply chain with a DevSecOps mindset, while fostering collaboration across cross-functional teams to ensure seamless and efficient operations."
     },
     {
