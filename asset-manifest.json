@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.afc75888.css",
-    "main.js": "/portfolio/static/js/main.f53a4117.js",
+    "main.js": "/portfolio/static/js/main.8d520cf7.js",
     "static/css/487.4d84efec.chunk.css": "/portfolio/static/css/487.4d84efec.chunk.css",
     "static/js/487.2ed0bf94.chunk.js": "/portfolio/static/js/487.2ed0bf94.chunk.js",
     "static/css/990.5dd63919.chunk.css": "/portfolio/static/css/990.5dd63919.chunk.css",
@@ -10,7 +10,7 @@
     "static/media/italic.otf": "/portfolio/static/media/italic.304e9818dfcd56ed16f3.otf",
     "static/media/gitopsfund.png": "/portfolio/static/media/gitopsfund.3cf1754a3ef74fcbc83d.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.2b8eabb66a664990199b.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.1072b7a880058e295ddf.pdf",
     "static/media/notheasternLogo.png": "/portfolio/static/media/notheasternLogo.18b09a6fc5c3847e1c7e.png",
     "static/media/unijenaLogo.jpg": "/portfolio/static/media/unijenaLogo.1f557b72f29cdb1e390f.jpg",
     "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -27,7 +27,7 @@
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.afc75888.css.map": "/portfolio/static/css/main.afc75888.css.map",
-    "main.f53a4117.js.map": "/portfolio/static/js/main.f53a4117.js.map",
+    "main.8d520cf7.js.map": "/portfolio/static/js/main.8d520cf7.js.map",
     "487.4d84efec.chunk.css.map": "/portfolio/static/css/487.4d84efec.chunk.css.map",
     "487.2ed0bf94.chunk.js.map": "/portfolio/static/js/487.2ed0bf94.chunk.js.map",
     "990.5dd63919.chunk.css.map": "/portfolio/static/css/990.5dd63919.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.afc75888.css",
-    "static/js/main.f53a4117.js"
+    "static/js/main.8d520cf7.js"
   ]
 }
